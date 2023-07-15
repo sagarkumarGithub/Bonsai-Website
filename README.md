@@ -25,9 +25,11 @@ CSS
 --------------------------------------------------
 
 Google Chrome,
-Mozilla Firefox,
-Author,
-#Ronak Sharma
+Mozilla Firefox
+
+#Author
+--------
+Sagar kumar
 
 #Contact
 --------
