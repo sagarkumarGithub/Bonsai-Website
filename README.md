@@ -3,7 +3,7 @@
 
 This repository contains a clone of the Bonsai front page created using pure HTML and CSS. The clone aims to replicate the layout and design of the original Bonsai website.
 
-##Demo  
+#Demo  
 -------
 
 You can see a live demo of the project here:
@@ -18,15 +18,15 @@ Responsive design: The clone is designed to be responsive and optimized for diff
 The project was created using the following tools:
 ---------------------------------------------------
 
-HTML
+HTML,
 CSS
 
 The project was tested on the following browsers:
 --------------------------------------------------
 
-Google Chrome
-Mozilla Firefox
-Author
+Google Chrome,
+Mozilla Firefox,
+Author,
 #Ronak Sharma
 
 Contact
