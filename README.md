@@ -10,18 +10,18 @@ You can see a live demo of the project here:
 
 https://sagarkumargithub.github.io/Bonsai-Website 
 
-Features
+#Features
 ---------
 
 Responsive design: The clone is designed to be responsive and optimized for different screen sizes.
 
-The project was created using the following tools:
+#The project was created using the following tools:
 ---------------------------------------------------
 
 HTML,
 CSS
 
-The project was tested on the following browsers:
+#The project was tested on the following browsers:
 --------------------------------------------------
 
 Google Chrome,
@@ -29,7 +29,7 @@ Mozilla Firefox,
 Author,
 #Ronak Sharma
 
-Contact
+#Contact
 --------
 
 If you have any questions or suggestions, please feel free to contact me at
